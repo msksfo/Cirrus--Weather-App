@@ -1,0 +1,88 @@
+html {
+	background-color: slategray
+}
+
+body {
+	max-width: 600px;
+	min-height: 85vh;
+	margin: 1.5rem auto;
+	border: 5px double purple;
+	background-color: floralwhite;
+	
+}
+
+.content {
+	flex: 1;
+}
+
+h1, footer, p {
+	text-align: center;
+}
+
+h1 {
+	padding-top: 1.5rem;
+	font-family: "Gloria Hallelujah", cursive;
+}
+
+p {
+	font-size: 1.2rem;
+}
+
+#askforzip {
+	margin-top: 1rem;
+}
+
+#query, #result {
+	font-family: 'Bellefair', serif;
+}
+
+img {
+	border: 4px double black;
+}
+
+#button {
+	padding: 10px;
+	font-size: 1.3em;
+	background-color: goldenrod;
+	color: purple;
+	border-radius: 5px;
+	width: 35%;
+	margin-bottom: 1rem;
+	}
+
+input {
+	border: 1px solid blue;
+	border-radius: 2.5px;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+
+#query {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#result {
+	width: 75%:;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
