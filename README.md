@@ -6,7 +6,7 @@ This app allows users to enter a (United States) zipcode to get the local time, 
 
 ## Credits
 
-Fonts by Google Fonts
+Fonts by Google Fonts  
 Icon by Font Awesome
 
 ## Site Link
